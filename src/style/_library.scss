@@ -1,0 +1,39 @@
+.library {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 20rem;
+  height: 100%;
+  background-color: #2f3e46;
+  box-shadow: 2px 2px 50px #121c20;
+  overflow: scroll;
+  transform: translateX(-100%);
+  transition: all 0.5s ease;
+
+  opacity: 0;
+}
+.library-song {
+  display: flex;
+  align-items: center;
+  padding: 1rem 2rem 1rem 2rem;
+  cursor: pointer;
+  transition: background 0.7s ease;
+
+  &:hover {
+    background: #52796f;
+  }
+}
+
+.active-library {
+  transform: translateX(0%);
+  opacity: 1;
+}
+
+.selected {
+  background: #84a98c;
+}
+@media screen and (max-width: 768px) {
+  .library {
+    width: 100%;
+  }
+}

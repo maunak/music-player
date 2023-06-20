@@ -1,0 +1,11 @@
+@import "./library";
+@import "./player";
+@import "./song";
+
+.App {
+  transition: all 0.5s ease;
+}
+
+.library-active {
+  margin-left: 30%;
+}

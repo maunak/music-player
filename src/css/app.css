@@ -1,0 +1,20 @@
+.library {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 20rem;
+  height: 100%;
+  background-color: white;
+  box-shadow: 2px 2px 50px rgb(204, 204, 204);
+  overflow: scroll;
+  transform: translateX(-100%);
+  transition: all 0.5s ease;
+  opacity: 0;
+}
+
+.active-library {
+  transform: translateX(0%);
+  opacity: 1;
+}
+
+/*# sourceMappingURL=app.css.map */
