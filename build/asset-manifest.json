@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maunak/music-player.git/static/css/main.cf72e6fc.css",
+    "main.js": "/maunak/music-player.git/static/js/main.e60e8495.js",
+    "static/js/787.cedb403c.chunk.js": "/maunak/music-player.git/static/js/787.cedb403c.chunk.js",
+    "index.html": "/maunak/music-player.git/index.html",
+    "main.cf72e6fc.css.map": "/maunak/music-player.git/static/css/main.cf72e6fc.css.map",
+    "main.e60e8495.js.map": "/maunak/music-player.git/static/js/main.e60e8495.js.map",
+    "787.cedb403c.chunk.js.map": "/maunak/music-player.git/static/js/787.cedb403c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf72e6fc.css",
+    "static/js/main.e60e8495.js"
+  ]
+}

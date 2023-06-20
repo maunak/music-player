@@ -1,7 +1,7 @@
 {
   "name": "music-player-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/maunak/music-player.git",
+  "homepage": "https://maunak.github.io/music-player/",
   "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
